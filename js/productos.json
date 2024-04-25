@@ -4,7 +4,7 @@
         "nombre": "Nike Dunk Panda",
         "detalle": "Zapatillas de hombre",
         "precio": 209.999,
-        "img": "../img/nikedunkpanda.webp"
+        "img": "../img/nikedunkpanda.jpg"
     },
     {
         "id": "2",
