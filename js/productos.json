@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "nombre": "Nike Dunk Panda",
+        "detalle": "Zapatillas de hombre",
+        "precio": 209.999,
+        "img": "../img/nikedunkpanda.webp"
+    },
+    {
+        "id": "2",
+        "nombre": "Nike Dunk Low Retro",
+        "detalle": "Zapatillas de hombre",
+        "precio": 219.999,
+        "img": "../img/nikedunklowretro.webp"
+    },
+    {
+        "id": "3",
+        "nombre": "Nike Jordan 1 mid ",
+        "detalle": "Zapatillas de hombre",
+        "precio": 249.999,
+        "img": "../img/jordan1mid.webp"
+    },
+    {
+        "id": "4",
+        "nombre": "Nike Jordan 1 Retro ",
+        "detalle": "Zapatillas de hombre",
+        "precio": 309.999,
+        "img": "../img/jorda1retro.webp"
+    },
+    {
+        "id": "5",
+        "nombre": "Nike Air Max 1",
+        "detalle": "Zapatillas de hombre",
+        "precio": 289.999,
+        "img": "../img/airmax1blue.webp"
+    },
+    {
+        "id": "6",
+        "nombre": "Nike Air Max 1",
+        "detalle": "Zapatillas de hombre",
+        "precio": 289.999,
+        "img": "../img/airmax1.webp"
+    },
+    {
+        "id": "7",
+        "nombre": "Nike Air Force 1 Red",
+        "detalle": "Zapatillas de hombre",
+        "precio": 259.999,
+        "img": "../img/airforce1red.webp"
+    },
+    {
+        "id": "8",
+        "nombre": "Nike Air Force 1 Low",
+        "detalle": "Zapatillas de hombre",
+        "precio": 279.999,
+        "img": "../img/airforce1low.webp"
+    }
+]
